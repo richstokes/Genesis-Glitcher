@@ -1,5 +1,5 @@
 # Genesis-Glitcher
-Toy that generates interesting, random glitch art by automatically corrupting Sega Genesis (Megadrive) games. It works by injecting random data into the game ROMs. It's not big, and its not clever, but it does produce crazy results which are kind of fun to watch.  
+Toy that generates interesting, random glitch art by automatically corrupting Sega Genesis (Megadrive) games. It works by injecting random data into the game ROMs. It's not big, and its not clever, but it does produce crazy results which are kind of fun to watch!
 
 &nbsp;
 
