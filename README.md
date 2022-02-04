@@ -1,5 +1,7 @@
 # Genesis-Glitcher
-Toy that generates interesting, random glitch art by automatically corrupting Sega Genesis (Megadrive) games
+Toy that generates interesting, random glitch art by automatically corrupting Sega Genesis (Megadrive) games. It works by swapping out random memory locations with random data. It's not big, and its not clever, but it does produce crazy results which are kind of fun to watch.  
+
+&nbsp;
 
 ## Use
 1. Run `macos-setup.sh` to check your environment
