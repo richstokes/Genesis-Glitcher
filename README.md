@@ -7,4 +7,6 @@ Toy that generates interesting, random glitch art by automatically corrupting Se
 3. Drop game ROMs in the `./roms` directory
 4. In a separate terminal, run `genesis-glitcher.sh`
 
-Tested on MacOS with Firefox.  
+*Tested on MacOS with Firefox.*
+
+See the comments in `genesis-glitcher.sh` for settings you can tweak.  
