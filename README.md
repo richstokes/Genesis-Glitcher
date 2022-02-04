@@ -10,3 +10,8 @@ Toy that generates interesting, random glitch art by automatically corrupting Se
 *Tested on MacOS with Firefox.*
 
 See the comments in `genesis-glitcher.sh` for settings you can tweak.  
+
+&nbsp;
+
+## Example
+![Demo image](https://raw.githubusercontent.com/richstokes/Genesis-Glitcher/main/demo/demo1.png)
